@@ -27,7 +27,7 @@ const CartItem = () => {
             <h2 className="w-52">{item.title}</h2>
             <p className="w-10">${item.price}</p>
             
-              <span onClick={}>+</span>
+              {/* <span onClick={}>+</span> */}
             </div>
           
         ))}
